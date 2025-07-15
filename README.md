@@ -14,12 +14,6 @@
 
 ---
 
-## Working
-
-The **AI Reply** button appears directly inside Gmail’s reply box. When clicked, it automatically reads the email thread and uses Gemini to draft a complete, relevant reply.
-
----
-
 ## 🧠 How It Works
 
 1. Open Gmail and select a conversation.
